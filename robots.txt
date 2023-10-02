@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://btrabing.github.io/TrabingWx/sitemap.xml
+Sitemap: https://btrabing.github.io/TrabingWx//sitemap.xml
