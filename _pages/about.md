@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ucar.edu/'>Associate Scientist at UCAR/NHC</a>. .
+subtitle: <a href='https://www.ucar.edu/'>Associate Scientist at UCAR/NHC</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Headshot_2023.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> CPAESS </p>
