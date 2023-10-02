@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: LDP
+description: Landfall Distribution Product
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://gitlab.com/Btrabing/ldp
 importance: 3
 category: work
 ---
