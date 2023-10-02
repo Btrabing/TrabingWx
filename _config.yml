@@ -168,10 +168,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: False
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
