@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: WRF
+description: Modeling Tropical Cyclones
+img: WRF_Jebi_MT.gif 
 importance: 3
 category: fun
 ---
