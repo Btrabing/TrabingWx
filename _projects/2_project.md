@@ -13,7 +13,7 @@ giscus_comments: true
 
 
 
- <a href="assets/M3D_/HWFI_Atlantic.html">HWRF Atlantic</a>
+ <a href="../assets/M3D_/HWFI_Atlantic.html">HWRF Atlantic</a>
 
 
 
