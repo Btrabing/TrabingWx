@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.ucar.edu/'>Associate Scientist at UCAR/NHC</a>.
 
 profile:
   align: right
   image: Headshot_2023.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> CPAESS </p>
     <p>3090 Center Green Drive</p>
