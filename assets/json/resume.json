@@ -5,7 +5,7 @@
     "image": "",
     "email": "trabing@ucar.edu",
     "url": "https://btrabing.github.io/TrabingWx/",
-    "summary": "Doctor of Atmospheric Science, Tropical Cyclone Expert, and Father of Two",
+    "summary": "Doctor of Atmospheric Science, Tropical Cyclone Expert, Software Developer, and Father of Two",
     "location": {
       "address": "3090 Center Green Drive",
       "postalCode": "CO 80301",
@@ -32,6 +32,17 @@
       "highlights": [
         "Storm-surge"
       ]
+    },
+    {
+      "name": "CIRA, Remote",
+      "position": "Research Associate II/Scientist I",
+      "url": "https://www.cira.colostate.edu/",
+      "startDate": "2020-02-01",
+      "endDate": "2022-11-01",
+      "summary": "Conducted forecast model verifications, developed forecast products, and explored research topics on lightning in tropical cyclones.",
+      "highlights": [
+        "HFIP", "Model Diagnostics","Forecast Product Development"
+      ]
     }
   ],
   "volunteer": [],
@@ -40,7 +51,7 @@
       "institution": "Colorado State University, Fort Collins, Colorado",
       "url": "https://www.atmos.colostate.edu/",
       "area": "Atmospheric Science",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2018-08-01",
       "endDate": "2020-12-01",
       "score": ""
@@ -49,7 +60,7 @@
       "institution": "Colorado State University, Fort Collins, Colorado",
       "url": "https://www.atmos.colostate.edu/",
       "area": "Atmospheric Science",
-      "studyType": "MS",
+      "studyType": "M.S.",
       "startDate": "2016-08-01",
       "endDate": "2018-08-01",
       "score": ""
@@ -57,8 +68,8 @@
     {
       "institution": "University of Oklahoma, Norman, Oklahoma",
       "url": "https://www.ou.edu/",
-      "area": "Meteorology",
-      "studyType": "BS",
+      "area": "Meteorology, Cumme Laude",
+      "studyType": "B.S.",
       "startDate": "2012-08-01",
       "endDate": "2016-05-01",
       "score": ""
