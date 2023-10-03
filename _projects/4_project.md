@@ -2,7 +2,7 @@
 layout: page
 title: WRF
 description: Modeling Tropical Cyclones
-img: WRF_Jebi_MT.gif 
+img: assets/img/WRF_Jebi_MT.gif 
 importance: 3
 category: fun
 ---
