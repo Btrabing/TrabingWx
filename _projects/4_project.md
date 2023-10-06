@@ -12,6 +12,10 @@ category: fun
 
 One way to help better understand our atmosphere is to model it using numerical weather prediction models. <a href="https://www.mmm.ucar.edu/models/wrf"> WRF</a> is a great tool with a lot of detailed documentation that makes it valuable to the atmospheric community. 
 
+## Using WRF
+
+WRF is free to use and is in active development by the community. I wrote some code to help read in and plot the output. If you are new to WRF and need help understanding the output structure take a look at <a href="../../assets/Read_WRF.html"> this jupyter notebook.</a> If you have questions feel free to reach out.
+
 
 ## Idealized Study
 
