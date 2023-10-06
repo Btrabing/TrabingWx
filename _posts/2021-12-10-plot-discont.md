@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with diagrams
+title: Plotting Discontinuous Data
 date: 2021-12-10 17:39:00
 tags: Python plotting
-description: Plotting a line plot with discontinuous data points
+description: How to remove extra lines from discontinuous data points
 ---
 
 If you have ever had to make a plot of winds where there is a jump between 270 degrees and 30 degrees, you understand that a line connecting those points looks ugly. I wrote some code to address that issue by adding in `nan` values whenever a threshold is met. Take a look at the following code and let me know if you have any suggestions. Depending on the resolution of the data, you may need to interpolate it to a fine resolution before applying this technique.
@@ -35,7 +35,7 @@ def remove_discont(x,y):
      y   : new y array with nan values inserted near discrepencies
      
     Use:
-     new_x, new_y = plot_discont(x,y)
+     new_x, new_y = remove_discont(x,y)
     
     '''
     
@@ -83,6 +83,9 @@ if __name__=='__main__':
 
 
 ```
+
+---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
