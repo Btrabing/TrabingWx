@@ -6,7 +6,7 @@ tags: Python plotting
 description: How to remove extra lines from discontinuous data points
 ---
 
-If you have ever had to make a plot of winds where there is a jump between 270 degrees and 30 degrees, you understand that a line connecting those points looks ugly. I wrote some code to address that issue by adding in `nan` values whenever a threshold is met. Take a look at the following code and let me know if you have any suggestions. Depending on the resolution of the data, you may need to interpolate it to a fine resolution before applying this technique.
+If you have ever had to make a plot of winds where there is a jump between 270 degrees and 30 degrees, you understand that a line connecting those points looks ugly. I wrote some code to address that issue by adding in `nan` values whenever a threshold is met. Take a look at the following code and let me know if you have any questions. Depending on the resolution of the data, you may need to interpolate it to a fine resolution before applying this technique.
 
 ## Code
 
@@ -85,6 +85,8 @@ if __name__=='__main__':
 ```
 
 ---
+
+The red line generated from `remove_discont()` is much much cleaner.
 
 
 <div class="row">
