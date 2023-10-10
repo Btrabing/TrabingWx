@@ -4,7 +4,7 @@ title: Lightning
 description: Learning More from GLM
 img: assets/img/2mar_cr6.png
 importance: 3
-category: fun
+category: Research
 ---
 
 

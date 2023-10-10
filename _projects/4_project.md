@@ -4,7 +4,7 @@ title: TC Modeling
 description: Modeling with WRF
 img: assets/img/WRF_Jebi_MT.gif 
 importance: 3
-category: fun
+category: Reseach
 ---
 
 

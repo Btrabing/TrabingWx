@@ -4,7 +4,7 @@ title: Intensity Forecast Errors
 description: Performance of Different Models Intensity Forecasts
 img: assets/img/goes16_ir_09L_202209281257.gif
 importance: 2
-category: work
+category: Forecasting
 giscus_comments: true
 ---
 

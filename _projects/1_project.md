@@ -4,7 +4,7 @@ title: PISTON
 description: Field Campaign Work
 img: assets/img/IMG_3226.JPG
 importance: 1
-category: work
+category: Research
 ---
 
 In 2018 I had the opportunity to take part in the Propagation of Intraseasonal Tropical Oscillations (PISTON) field campaign funded by the Office of Naval Research. The goal of the project was to collect detailed ocean and atmosphere observations over an extended period to better understand the boreal summer intraseasonal oscillation (BSISO).  The field campaign was origionally supposed to take place in the South China Sea; however, politics got in the way and the research domain had to moved to the area just north of Palau. Instead of sampling intraseasonal oscillilations, we spent most of the time sampling near tropical cyclone environments. This worked out better for my interests in tropical cyclones, although we had to deal with significantly larger waves on the ship.  
