@@ -15,6 +15,15 @@ HCCA applies unequal weights to input forecast models based on the performance o
 During my time at the National Hurricane Center, I took over the development of HCCA. My work included rewriting the model into Python and transitioning it to the operational guidance suite. I also lead the updates to the training dataset and performed rigorous testing of new forecast models to incorporate into the consensus.
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Model_ver_2022.png" title="Track Performance of HCCA in Atlantic 2022" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The performance of HCCA for Atlantic track forecasts compared to other forecast models in 2022 (Cangiolosi 2023). 
+</div>
+
 
 
 
