@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TC Modeling
+title: Numerical Weather Prediction
 description: Modeling with WRF
 img: assets/img/WRF_Jebi_MT.gif 
 importance: 3
@@ -25,7 +25,7 @@ WRF can be used in an idealized framework to help better understand the physical
 
 ## Validation Study
 
-The goal of numerical weather prediction models is to provide a reasonable forecast of the future state of the atmosphere. We also need to ensure that the models future state is reasonable by conducting validation and verification studies. 
+The goal of numerical weather prediction models is to provide a reasonable forecast of the future state of the atmosphere. We also need to ensure that the models future state is reasonable by conducting validation and verification studies. We know that the models will never be perfect from chaos theory, but it is important to know how wrong they are. 
 
 The last part of my dissertation included a validation study of how radiation and microphysics schemes interact to influence the precipation structure of tropical cyclones. Single moment and double moment microphysics schemes have bigger differences in precipation structure when interactive radiation is included. In particular, double moment schemes are able to produce significantly larger amounts of stratiform precipiation that may be more realistic.   
 
