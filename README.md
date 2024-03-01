@@ -1,9 +1,8 @@
 # TrabingWx
 
+Visit the website at [\*https://btrabing.github.io](https://btrabing.github.io/)
+
 Github page for Benjamin Trabing's personal website.
-
-Visit the website at [\*https://btrabing.github.io/TrabingWx](https://btrabing.github.io/TrabingWx/)
-
 
 
 ## License
