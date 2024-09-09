@@ -5,7 +5,7 @@
     "image": "",
     "email": "trabing@ucar.edu",
     "url": "https://btrabing.github.io/",
-    "summary": "Doctor of Atmospheric Science, Tropical Cyclone Expert, Software Developer, and Father of Two",
+    "summary": "Doctor of Atmospheric Science, Tropical Cyclone Expert, and Software Developer",
     "location": {
       "address": "3090 Center Green Drive",
       "postalCode": "CO 80301",
@@ -42,6 +42,17 @@
       "summary": "Conducted forecast model verifications, developed forecast products, and explored research topics on lightning in tropical cyclones.",
       "highlights": [
         "HFIP", "Model Diagnostics","Forecast Product Development"
+      ]
+    },
+    {
+      "name": "Colorado State University",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.colostate.edu/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-02-01",
+      "summary": "Explored theoretical research topics on tropical cyclones using numerical models and observations.",
+      "highlights": [
+        "Idealized Modeling", "WRF","Radiation","Cloud Microphysics"
       ]
     }
   ],
