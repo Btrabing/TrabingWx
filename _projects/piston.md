@@ -23,7 +23,7 @@ During my leg of the project, I helped launch radiosondes and operated the radar
 
 
 
-The time I spent on the R/V Thomas G. Thompson was incredible because I got to interact with oceanographers, engineers, and the ship crew. It was also a unique experience because I got to collect the data that went into my PhD projects. Although I still have a number of questions, I analyzed the data we collected on Super Typhoon Kong-rey. If you ever get a chance to engage in field work, take it. 
+The time I spent on the R/V Thomas G. Thompson was incredible because I got to interact with oceanographers, engineers, other atmospheric scientists, and the ship crew. It was also a unique experience because I got to collect the data that went into my PhD projects. Although I still have a number of questions, I analyzed the data we collected on Super Typhoon Kong-rey and found several interesting features (including diurnal oscillations in the outflow layer). If you ever get a chance to engage in field work, take it. 
 
 
 

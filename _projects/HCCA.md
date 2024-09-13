@@ -25,9 +25,7 @@ During my time at the National Hurricane Center, I took over the development of 
 </div>
 
 
-
-
-For more details about how HCCA works and its performance see the cited documents below.
+For more details about how HCCA works and its performance see the cited documents below or send me an email.
 
 ---
 Cangiolosi, J., 2023: National Hurricane Center Forecast Verification Report: 2022 Hurricane Season, https://www.nhc.noaa.gov/verification/pdfs/Verification_2022.pdf
